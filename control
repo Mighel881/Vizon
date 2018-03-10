@@ -1,9 +1,9 @@
 Package: com.shade.vizon
 Name: Vizon
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Shade Zepheri
-Author: Shade Zepheri
+Description: Blur NC when presenting
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
 Section: Tweaks
